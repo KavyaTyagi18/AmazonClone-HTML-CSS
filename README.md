@@ -16,6 +16,7 @@ A responsive Amazon homepage clone built using HTML and CSS.
 
 ## 📸 Project Preview
 This project replicates the Amazon homepage for frontend practice and UI development.
+
 ![Amazon Clone](images/photo.png)
 
 ## Author
